@@ -1,0 +1,11 @@
+,Sentence,Polarity,Subjectivity,Sentiment
+0,The floods come only a month af­ter tor­ren­tial rains killed 435 peo­ple in KwaZu­lu-Na­tal.,-0.1,0.5,negative
+1,"In re­cent years, South­ern Africa has suf­fered re­peat­ed dev­as­tat­ing cy­clones that used to be rel­a­tive­ly rare.",0.3,0.9,positive
+2,New min­is­ters were named af­ter a ma­jor reshuf­fle by Pres­i­dent Fil­ipe Nyusi.,0.13636363636363635,0.45454545454545453,positive
+3,"A lack of in­fra­struc­ture, not ca­pac­i­ty, could hurt the con­ti­nent’s plan to sup­ply gas to Eu­rope in Rus­sia’s stead.",0.0,0.0,neutral
+4,"At least 70 killed in storm that struck Mada­gas­car, Mozam­bique and Malawi as au­thor­i­ties scram­ble to re­pair dam­ages.",-0.25,0.2,negative
+5,Re­gion­al body says progress made against rebels in Cabo Del­ga­do province since troops de­ployed last year.,0.0,0.06666666666666667,neutral
+6,Why peo­ple in Mada­gas­car are starv­ing.,0.0,0.0,neutral
+7,Rwan­dan pres­i­dent says his coun­try’s force will help se­cure and re­build Cabo Del­ga­do ar­eas de­stroyed by armed cam­paign.,0.0,0.0,neutral
+8,"Mocim­boa da Pra­ia, home to one of Africa’s biggest nat­ur­al gas projects, re­tak­en from rebels, Rwan­dan army says.",0.0,0.0,neutral
+9,Gov’t says de­ploy­ment at re­quest of Mozam­bi­can au­thor­i­ties aimed at restor­ing state con­trol in con­flict-hit province.,0.0,0.0,neutral
