@@ -54,5 +54,5 @@ Results obtained in the form of a dataframe using TextBlob:
 https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/sentiment.csv
 
 Results obtained by using vaderSentiment:
-results_SentimentAnalysis_using_vader.png
+https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/results_SentimentAnalysis_using_vader.png
 
