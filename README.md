@@ -42,4 +42,4 @@ Hence, TextBlob performed better in this sentiment analysis project.
 
 Total operation time of the code : 98.2 ms
 
-Sentiment_results.png
+https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/Sentiment_results.png
