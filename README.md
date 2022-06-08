@@ -41,3 +41,5 @@ Logically when we read and understand the meaning of the sentence, we can confir
 Hence, TextBlob performed better in this sentiment analysis project.
 
 Total operation time of the code : 98.2 ms
+
+Sentiment_results.png
