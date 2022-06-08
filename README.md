@@ -6,11 +6,13 @@ The file ‘Sentiment_Analysis_of_News_Articles.ipynb’ can be downloaded and e
 The file ‘sentiment_analysis_of_news_articles.py’ contains the python code of this project and can be executed through any IDE like Visual Studio Code, IDLE, Spyder, etc.
 
 The file ‘requirements.txt’ contains the the external libraries/packages required to run the code.
-The file ‘news.json’ contains the 10 news articles which are collected by web scraping the given website. The articles are added in an orderly manner in the form of a list to the json file corresponding to the key "News articles”.
 The file ‘Sentiment_each_News_article’ is the screenshot of the visualization of sentiment analysis of each news article being classified as positive, negative or neutral.
 The file ‘Sentiment_results’ is the screenshot of the visualization of number of articles belonging to each sentiment category.
 The file ‘results_SentimentAnalysis_using_vader’ contains the screenshot of result obtained using the vaderSentiment library.
 The file ‘sentiment.csv’ contains the dataframe that we generated containing the sentence, polarity, subjectivity and sentiment.
+
+### JSON file format
+The file ‘news.json’ contains the 10 news articles which are collected by web scraping the given website. The articles are added in an orderly manner in the form of a list to the json file corresponding to the key "News articles”.
 
 ## Choice of sentiment analysis approach:
 
