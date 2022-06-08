@@ -44,11 +44,12 @@ Total operation time of the code : 98.2 ms
 
 Results obtained are are follows:
 
-Sentiment of each new article:
+Sentiment of each news article using TextBlob:
 https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/Sentiment_each_News_article.png
 
-Sentiment analysis of all news articles:
+Sentiment analysis of all news articles using TextBlob:
 https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/Sentiment_results.png
 
-
+Results obtained in the form of a dataframe using TextBlob:
+https://github.com/Shivaani-Kabilan/Sentiment-analysis-of-news-articles/blob/main/sentiment.csv
 
