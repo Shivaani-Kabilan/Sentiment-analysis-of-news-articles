@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+numpy==1.20.3
+pandas==1.3.4
+pattern==3.6
+plotly==5.8.0
+requests==2.26.0
+textblob==0.17.1
+tqdm==4.62.3
+vaderSentiment==3.3.2
